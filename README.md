@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/fae60fbc90d84827100d9.jpg">
+  <img src="https://telegra.ph/file/3b12ae01358f946b8a61f.jpg">
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 <h3 align="center">
-    ──「 ⋆˹ᴠᴇɢᴀ✘ᴍᴜˢɪᴄ♪˼ 」──
+    ──「 ⋆˹VeGa˼ 」──
 </h3>
 
 🥀ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ ✨ᴡᴏʀʟᴅ ᴏғ🖤⸢ᴍᴜsɪᴄ♪⸥
@@ -23,12 +23,12 @@
 
 
 <h3 align="center">
-    ──「 ᴋɪᴍᴍʏ‹⋆ダ⸢ᴠᴇɢᴀ♪ 」──
+    ──「 ᴢᴇꝛօ>_ᴠᴇɢᴧ 」──
 </h3>
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/18133bea836b80abacde5.jpg">
+  <img src="https://telegra.ph/file/c1896a4ea6a451cd9ac85.jpg">
 </p>
 
 
@@ -41,5 +41,5 @@
 </p>
 
 <p align="center">
-<a href="https://telegram.me/KINGVEGA"><img src="https://img.shields.io/badge/-VEGA%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/VEGAQne"><img src="https://img.shields.io/badge/-VEGA%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
