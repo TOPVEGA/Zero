@@ -37,9 +37,9 @@
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/GROUPVEGA"><img src="https://img.shields.io/badge/-CHAT%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/GROUPVEGA"><img src="https://img.shields.io/badge/-CHAT%20Group-red.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/VEGAQne"><img src="https://img.shields.io/badge/-VEGA%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/VEGAOne"><img src="https://img.shields.io/badge/-VEGA%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
