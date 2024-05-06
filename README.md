@@ -3,7 +3,7 @@
 
 [<img src="https://github.com/ZEROXVEGA/ZEROXVEGA/blob/master/resources/hr.gif"/>](https://github.com/ZEROXVEGA)
 
-<h1> <img src="https://telegra.ph/file/3b12ae01358f946b8a61f.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴠᴇɢᴀ </h1>
+<h1> <img src="https://telegra.ph/file/21e7bb7f0b7b27333a806.jpg" height="90px" width="80px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴠᴇɢᴀ </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/ZEROXVEGA/count.svg" />
@@ -12,7 +12,7 @@
 [<img src="https://github.com/ZEROXVEGA/ZEROXVEGA/blob/master/resources/hr.gif"/>](https://github.com/ZEROXVEGA)
 
 <p align="center">
-<img src="https://te.legra.ph/file/9f9f9e906aa1dfdef2e29.jpg">
+<img src="https://telegra.ph/file/3a9e51d1c7fa02bb262ee.jpg">
 </p>
 
 [<img src="https://raw.githubusercontent.com/ZEROXVEGA/ZEROXVEGA/master/resources/hr.gif"/>](https://github.com/ZEROXVEGA)
