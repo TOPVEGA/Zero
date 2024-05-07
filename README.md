@@ -1,5 +1,7 @@
 
-
+<h3 align="center">
+    ─「 ⋆ᴠᴇɢᴀ♪ 」─
+</h3>
 
 [<img src="https://github.com/zero/zero/blob/master/resources/hr.gif"/>](https://github.com/zero)
 
