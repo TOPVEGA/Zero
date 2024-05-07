@@ -2,7 +2,7 @@
 <h3 align="center">
     ─「 ⋆ᴠᴇɢᴀ♪ 」─
 </h3>
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>]
 
 [<img src="https://github.com/zero/zero/blob/master/resources/hr.gif"/>](https://github.com/zero)
 
@@ -21,7 +21,7 @@
 [<img src="https://raw.githubusercontent.com/zero/zero/master/resources/hr.gif"/>](https://github.com/zero)
 
 <h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>]
 
 ```python3
 class zero():
