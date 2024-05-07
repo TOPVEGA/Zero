@@ -2,6 +2,7 @@
 <h3 align="center">
     ─「 ⋆ᴠᴇɢᴀ♪ 」─
 </h3>
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
 [<img src="https://github.com/zero/zero/blob/master/resources/hr.gif"/>](https://github.com/zero)
 
@@ -20,6 +21,7 @@
 [<img src="https://raw.githubusercontent.com/zero/zero/master/resources/hr.gif"/>](https://github.com/zero)
 
 <h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
 ```python3
 class zero():
@@ -45,7 +47,8 @@ class zero():
             'Windows', 'Android', 'Linux'
         ]
  ```
- 
+
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 </h3>
 
 <p align="center">
@@ -62,7 +65,7 @@ class zero():
 
 [<img src="https://github-readme-stats.vercel.app/api?username=zero&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/zero)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=zero&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/zero)
 
-[<img src="https://github.com/zero/zero/blob/master/resources/hr.gif"/>](https://github.com/zero)
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
 
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
@@ -75,4 +78,4 @@ class zero():
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
 [<img src="https://github.com/zero/zero/blob/master/resources/hr.gif"/>](https://github.com/zero)
-
+[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
