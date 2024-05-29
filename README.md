@@ -1,4 +1,9 @@
- ㅤ ㅤ ㅤㅤ[![GIF](https://github.com/ZER0X77/ZER0X77/blob/main/ZER0X77.gif)](https://github.com/ZER0X77)
+<h3 align="center">
+    ─「 ⋆ᴠᴇɢᴀ♪ 」─
+</h3>
+ 
+ 
+ ㅤ ㅤㅤ[![GIF](https://github.com/ZER0X77/ZER0X77/blob/main/ZER0X77.gif)](https://github.com/ZER0X77)
    [![𝐕𝐄𝐆𝐀𝐌𝐔𝐒𝐈𝐂](https://github-stats-alpha.vercel.app/api?username=ZER0X77 "ZER0X77")](https://github-stats-alpha.vercel.app/api?username=ZER0X77 "ZER0X77")
                                                           
   
@@ -18,7 +23,30 @@
 ZER0X77/ZER0X77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+```python3
+class zero():
+    def __init__(self):
+        self.name = ['zero']
+        self.country = ['Egypt']
+        self.language = ['Arab', 'English']
+    def programming_languages(self):
+        return [
+            'Python', 'SQL'
+        ]
+    def markup_languages(self):
+        return [
+            'HTML', 'CSS'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Stack Overflow', 'Docker', 'Heroku',
+            'MongoDB', 'MySQL', 'Azure'
+        ]
+    def operating_system(self):
+        return [
+            'Windows', 'Android', 'Linux'
+        ]
+ ```
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
