@@ -28,8 +28,9 @@ You can click the Preview link to take a look at your changes.
 
   [![Github Trophies](https://github-profile-trophy.vercel.app/?username=ZER0X77&theme=transparent&no-bg=true&margin-w=15&margin-h=10&row=1&column=6&count_private=true)](https://ZER0X77.me)
   
+  
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZER0X77&show_icons=true&locale=en&layout=compact" alt="ZER0X77" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
 
 # Contribution Graph:
 
