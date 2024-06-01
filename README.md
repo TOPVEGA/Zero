@@ -23,7 +23,8 @@
 ZER0X77/ZER0X77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-```python3
+
+```
 class zero():
     def __init__(self):
         self.name = ['zero']
@@ -46,7 +47,7 @@ class zero():
         return [
             'Windows', 'Android', 'Linux'
         ]
- ```
+```
 
 <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 
